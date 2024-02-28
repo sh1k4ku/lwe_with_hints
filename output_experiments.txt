@@ -1,0 +1,537 @@
+Finished experiment.	Hints: 12	Blocksize: 0	Time: 0.040375s
+Finished experiment.	Hints: 12	Blocksize: 0	Time: 0.040925s
+Finished experiment.	Hints: 16	Blocksize: 0	Time: 0.044404s
+Finished experiment.	Hints: 20	Blocksize: 0	Time: 0.051832s
+Finished experiment.	Hints: 20	Blocksize: 0	Time: 0.049922s
+Finished experiment.	Hints: 16	Blocksize: 0	Time: 0.043544s
+Finished experiment.	Hints: 12	Blocksize: 0	Time: 0.037832s
+Finished experiment.	Hints: 12	Blocksize: 0	Time: 0.046005s
+Finished experiment.	Hints: 16	Blocksize: 0	Time: 0.041610s
+Finished experiment.	Hints: 16	Blocksize: 0	Time: 0.044153s
+Finished experiment.	Hints: 20	Blocksize: 0	Time: 0.051409s
+Finished experiment.	Hints: 20	Blocksize: 0	Time: 0.053876s
+Finished experiment.	Hints: 40	Blocksize: 0	Time: 2.167897s
+Finished experiment.	Hints: 40	Blocksize: 0	Time: 2.354647s
+Finished experiment.	Hints: 44	Blocksize: 0	Time: 2.396481s
+Finished experiment.	Hints: 44	Blocksize: 0	Time: 2.516518s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 2.574426s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 2.686749s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 2.969308s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 3.036963s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 3.381852s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 3.433570s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 3.590920s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 3.790578s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 7.715636s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 7.739853s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 8.794275s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 8.947696s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 9.855786s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 10.037832s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 10.716564s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 10.754679s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 11.629105s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 11.858468s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 12.635296s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 12.884780s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 13.763566s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 13.800670s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 14.460095s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 15.117856s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 16.418598s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 16.475871s
+Finished experiment.	Hints: 44	Blocksize: 2	Time: 38.174188s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 5.157002s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 6.143731s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 6.947427s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 7.547596s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 8.191809s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 9.224649s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 10.157065s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 11.120909s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 12.778699s
+Finished experiment.	Hints: 44	Blocksize: 3	Time: 67.498607s
+Finished experiment.	Hints: 40	Blocksize: 3	Time: 111.865666s
+Finished experiment.	Hints: 40	Blocksize: 0	Time: 1.599875s
+Finished experiment.	Hints: 44	Blocksize: 0	Time: 1.881207s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 2.118928s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 2.309858s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 2.783125s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 3.282196s
+Finished experiment.	Hints: 42	Blocksize: 0	Time: 2.753594s
+Finished experiment.	Hints: 46	Blocksize: 0	Time: 3.087557s
+Finished experiment.	Hints: 50	Blocksize: 0	Time: 3.311765s
+Finished experiment.	Hints: 54	Blocksize: 0	Time: 3.846171s
+Finished experiment.	Hints: 58	Blocksize: 0	Time: 4.244244s
+Finished experiment.	Hints: 62	Blocksize: 0	Time: 4.772204s
+Finished experiment.	Hints: 66	Blocksize: 0	Time: 4.953415s
+Finished experiment.	Hints: 70	Blocksize: 0	Time: 5.812668s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 5.496705s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 5.803338s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 6.492725s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 7.466488s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 8.178513s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 8.512635s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 9.814148s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 10.998244s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 12.254721s
+Finished experiment.	Hints: 44	Blocksize: 3	Time: 55.434133s
+Finished experiment.	Hints: 40	Blocksize: 3	Time: 84.755255s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 5.592792s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 6.098489s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 6.640371s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 6.853398s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 8.163208s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 8.662700s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 9.679485s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 10.730318s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 10.869270s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 5.725803s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 5.760938s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 6.650658s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 7.314136s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 8.289373s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 8.727403s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 9.953142s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 10.713665s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 12.392143s
+Finished experiment.	Hints: 44	Blocksize: 3	Time: 57.108775s
+Finished experiment.	Hints: 40	Blocksize: 5	Time: 144.168474s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 5.901018s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 6.547918s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 7.201020s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 8.353689s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 9.001626s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 9.490213s
+Finished experiment.	Hints: 48	Blocksize: 0	Time: 6.722885s
+Finished experiment.	Hints: 52	Blocksize: 0	Time: 7.621199s
+Finished experiment.	Hints: 56	Blocksize: 0	Time: 8.261379s
+Finished experiment.	Hints: 60	Blocksize: 0	Time: 9.080903s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 10.031102s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 11.099468s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 11.149566s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 13.202416s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 14.639543s
+Finished experiment.	Hints: 64	Blocksize: 0	Time: 15.967575s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 18.664848s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 19.076616s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 20.639961s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 24.396203s
+Finished experiment.	Hints: 84	Blocksize: 0	Time: 26.538481s
+Finished experiment.	Hints: 88	Blocksize: 0	Time: 27.656220s
+Finished experiment.	Hints: 92	Blocksize: 0	Time: 30.879645s
+Finished experiment.	Hints: 96	Blocksize: 0	Time: 33.947302s
+Finished experiment.	Hints: 100	Blocksize: 0	Time: 36.277758s
+Finished experiment.	Hints: 65	Blocksize: 0	Time: 15.738189s
+Finished experiment.	Hints: 69	Blocksize: 0	Time: 33.806901s
+Finished experiment.	Hints: 71	Blocksize: 0	Time: 36.911489s
+Finished experiment.	Hints: 70	Blocksize: 0	Time: 37.352595s
+Finished experiment.	Hints: 73	Blocksize: 0	Time: 39.661454s
+Finished experiment.	Hints: 72	Blocksize: 0	Time: 39.706363s
+Finished experiment.	Hints: 76	Blocksize: 0	Time: 41.023000s
+Finished experiment.	Hints: 75	Blocksize: 0	Time: 41.303618s
+Finished experiment.	Hints: 74	Blocksize: 0	Time: 41.588077s
+Finished experiment.	Hints: 77	Blocksize: 0	Time: 43.979909s
+Finished experiment.	Hints: 78	Blocksize: 0	Time: 45.516128s
+Finished experiment.	Hints: 79	Blocksize: 0	Time: 45.880693s
+Finished experiment.	Hints: 82	Blocksize: 0	Time: 47.997935s
+Finished experiment.	Hints: 81	Blocksize: 0	Time: 48.306316s
+Finished experiment.	Hints: 80	Blocksize: 0	Time: 48.433766s
+Finished experiment.	Hints: 84	Blocksize: 0	Time: 50.043762s
+Finished experiment.	Hints: 83	Blocksize: 0	Time: 51.174340s
+Finished experiment.	Hints: 86	Blocksize: 0	Time: 51.513355s
+Finished experiment.	Hints: 85	Blocksize: 0	Time: 52.150365s
+Finished experiment.	Hints: 87	Blocksize: 0	Time: 54.182404s
+Finished experiment.	Hints: 88	Blocksize: 0	Time: 57.352387s
+Finished experiment.	Hints: 89	Blocksize: 0	Time: 59.503555s
+Finished experiment.	Hints: 90	Blocksize: 0	Time: 61.250716s
+Finished experiment.	Hints: 91	Blocksize: 0	Time: 61.813214s
+Finished experiment.	Hints: 92	Blocksize: 0	Time: 63.727050s
+Finished experiment.	Hints: 93	Blocksize: 0	Time: 65.822124s
+Finished experiment.	Hints: 95	Blocksize: 0	Time: 66.029018s
+Finished experiment.	Hints: 94	Blocksize: 0	Time: 66.321412s
+Finished experiment.	Hints: 97	Blocksize: 0	Time: 68.439223s
+Finished experiment.	Hints: 99	Blocksize: 0	Time: 69.153310s
+Finished experiment.	Hints: 68	Blocksize: 0	Time: 35.200956s
+Finished experiment.	Hints: 62	Blocksize: 0	Time: 28.373512s
+Finished experiment.	Hints: 66	Blocksize: 0	Time: 32.484268s
+Finished experiment.	Hints: 96	Blocksize: 0	Time: 70.252211s
+Finished experiment.	Hints: 67	Blocksize: 0	Time: 33.427504s
+Finished experiment.	Hints: 65	Blocksize: 0	Time: 31.107645s
+Finished experiment.	Hints: 98	Blocksize: 0	Time: 72.551481s
+Finished experiment.	Hints: 100	Blocksize: 0	Time: 76.428559s
+Finished experiment.	Hints: 63	Blocksize: 2	Time: 56.218059s
+Finished experiment.	Hints: 64	Blocksize: 2	Time: 65.254313s
+Finished experiment.	Hints: 61	Blocksize: 3	Time: 150.627167s
+Finished experiment.	Hints: 59	Blocksize: 3	Time: 157.665773s
+Finished experiment.	Hints: 60	Blocksize: 3	Time: 171.049037s
+Finished experiment.	Hints: 57	Blocksize: 3	Time: 183.340833s
+Finished experiment.	Hints: 58	Blocksize: 5	Time: 297.919654s
+Finished experiment.	Hints: 56	Blocksize: 5	Time: 340.829584s
+Finished experiment.	Hints: 52	Blocksize: 5	Time: 338.132136s
+Finished experiment.	Hints: 55	Blocksize: 5	Time: 447.146041s
+Finished experiment.	Hints: 53	Blocksize: 7	Time: 519.579203s
+Finished experiment.	Hints: 51	Blocksize: 7	Time: 527.971282s
+Finished experiment.	Hints: 54	Blocksize: 7	Time: 555.791624s
+Finished experiment.	Hints: 50	Blocksize: 7	Time: 617.340921s
+Finished experiment.	Hints: 121	Blocksize: 0	Time: 268.556027s
+Finished experiment.	Hints: 119	Blocksize: 0	Time: 286.282003s
+Finished experiment.	Hints: 124	Blocksize: 0	Time: 294.008350s
+Finished experiment.	Hints: 120	Blocksize: 0	Time: 297.463002s
+Finished experiment.	Hints: 122	Blocksize: 0	Time: 306.996340s
+Finished experiment.	Hints: 123	Blocksize: 0	Time: 309.258900s
+Finished experiment.	Hints: 125	Blocksize: 0	Time: 312.386806s
+Finished experiment.	Hints: 126	Blocksize: 0	Time: 320.151789s
+Finished experiment.	Hints: 128	Blocksize: 0	Time: 331.628720s
+Finished experiment.	Hints: 127	Blocksize: 0	Time: 333.297817s
+Finished experiment.	Hints: 129	Blocksize: 0	Time: 347.633640s
+Finished experiment.	Hints: 130	Blocksize: 0	Time: 349.987463s
+Finished experiment.	Hints: 131	Blocksize: 0	Time: 353.581366s
+Finished experiment.	Hints: 133	Blocksize: 0	Time: 357.752166s
+Finished experiment.	Hints: 132	Blocksize: 0	Time: 358.946111s
+Finished experiment.	Hints: 134	Blocksize: 0	Time: 380.586104s
+Finished experiment.	Hints: 135	Blocksize: 0	Time: 384.227287s
+Finished experiment.	Hints: 136	Blocksize: 0	Time: 389.227640s
+Finished experiment.	Hints: 137	Blocksize: 0	Time: 400.321387s
+Finished experiment.	Hints: 141	Blocksize: 0	Time: 408.148505s
+Finished experiment.	Hints: 138	Blocksize: 0	Time: 412.629095s
+Finished experiment.	Hints: 142	Blocksize: 0	Time: 412.851871s
+Finished experiment.	Hints: 139	Blocksize: 0	Time: 424.173620s
+Finished experiment.	Hints: 140	Blocksize: 0	Time: 427.350415s
+Finished experiment.	Hints: 143	Blocksize: 0	Time: 438.690910s
+Finished experiment.	Hints: 146	Blocksize: 0	Time: 450.462347s
+Finished experiment.	Hints: 144	Blocksize: 0	Time: 458.819026s
+Finished experiment.	Hints: 147	Blocksize: 0	Time: 465.601258s
+Finished experiment.	Hints: 145	Blocksize: 0	Time: 467.115645s
+Finished experiment.	Hints: 150	Blocksize: 0	Time: 468.063577s
+Finished experiment.	Hints: 148	Blocksize: 0	Time: 470.187673s
+Finished experiment.	Hints: 149	Blocksize: 0	Time: 481.195448s
+Finished experiment.	Hints: 118	Blocksize: 0	Time: 236.154642s
+Finished experiment.	Hints: 117	Blocksize: 0	Time: 233.886806s
+Finished experiment.	Hints: 113	Blocksize: 0	Time: 211.390774s
+Finished experiment.	Hints: 112	Blocksize: 0	Time: 211.179202s
+Finished experiment.	Hints: 116	Blocksize: 0	Time: 230.117357s
+Finished experiment.	Hints: 115	Blocksize: 0	Time: 228.992633s
+Finished experiment.	Hints: 114	Blocksize: 0	Time: 227.245043s
+Finished experiment.	Hints: 111	Blocksize: 0	Time: 225.846214s
+Finished experiment.	Hints: 107	Blocksize: 3	Time: 317.858614s
+Finished experiment.	Hints: 110	Blocksize: 3	Time: 361.435234s
+Finished experiment.	Hints: 105	Blocksize: 3	Time: 336.065054s
+Finished experiment.	Hints: 108	Blocksize: 3	Time: 350.359677s
+Finished experiment.	Hints: 106	Blocksize: 3	Time: 434.250188s
+Finished experiment.	Hints: 104	Blocksize: 3	Time: 457.472258s
+Finished experiment.	Hints: 109	Blocksize: 3	Time: 509.275623s
+Finished experiment.	Hints: 101	Blocksize: 5	Time: 576.867160s
+Finished experiment.	Hints: 103	Blocksize: 5	Time: 1942.948844s
+Finished experiment.	Hints: 102	Blocksize: 7	Time: 2057.639138s
+Finished experiment.	Hints: 455	Blocksize: 2	Time: 1316.467771s
+Finished experiment.	Hints: 452	Blocksize: 2	Time: 1318.476885s
+Finished experiment.	Hints: 448	Blocksize: 2	Time: 1345.122793s
+Finished experiment.	Hints: 453	Blocksize: 2	Time: 1345.595039s
+Finished experiment.	Hints: 451	Blocksize: 2	Time: 1353.683615s
+Finished experiment.	Hints: 450	Blocksize: 2	Time: 1367.666503s
+Finished experiment.	Hints: 445	Blocksize: 2	Time: 1413.390068s
+Finished experiment.	Hints: 454	Blocksize: 2	Time: 1480.985663s
+Finished experiment.	Hints: 444	Blocksize: 2	Time: 1500.587992s
+Finished experiment.	Hints: 447	Blocksize: 2	Time: 1558.517232s
+Finished experiment.	Hints: 449	Blocksize: 2	Time: 1582.034139s
+Finished experiment.	Hints: 446	Blocksize: 2	Time: 1592.407865s
+Finished experiment.	Hints: 441	Blocksize: 2	Time: 1648.184696s
+Finished experiment.	Hints: 442	Blocksize: 3	Time: 5380.601514s
+Finished experiment.	Hints: 443	Blocksize: 3	Time: 5416.053662s
+Finished experiment.	Hints: 440	Blocksize: 3	Time: 5421.727563s
+Finished experiment.	Hints: 450	Blocksize: 2	Time: 517.822295s
+Finished experiment.	Hints: 454	Blocksize: 2	Time: 556.513656s
+Finished experiment.	Hints: 455	Blocksize: 2	Time: 592.537392s
+Finished experiment.	Hints: 453	Blocksize: 2	Time: 593.262133s
+Finished experiment.	Hints: 452	Blocksize: 2	Time: 597.205482s
+Finished experiment.	Hints: 448	Blocksize: 2	Time: 600.530423s
+Finished experiment.	Hints: 449	Blocksize: 2	Time: 629.506508s
+Finished experiment.	Hints: 446	Blocksize: 2	Time: 630.073409s
+Finished experiment.	Hints: 447	Blocksize: 2	Time: 633.596803s
+Finished experiment.	Hints: 444	Blocksize: 2	Time: 634.781286s
+Finished experiment.	Hints: 451	Blocksize: 2	Time: 641.372526s
+Finished experiment.	Hints: 445	Blocksize: 2	Time: 646.577579s
+Finished experiment.	Hints: 442	Blocksize: 2	Time: 650.409799s
+Finished experiment.	Hints: 441	Blocksize: 2	Time: 663.003381s
+Finished experiment.	Hints: 443	Blocksize: 2	Time: 771.985033s
+Finished experiment.	Hints: 440	Blocksize: 3	Time: 878.805752s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 216, in __constructBasis
+    self.__vPrint(f"the dimension of A is {A.shape} and the len of b is {len(b)}")
+UnboundLocalError: local variable 'A' referenced before assignment
+
+Finished experiment.	Hints: 454	Blocksize: 2	Time: 1052.817817s
+Finished experiment.	Hints: 455	Blocksize: 2	Time: 1058.689364s
+Finished experiment.	Hints: 440	Blocksize: 2	Time: 738.933589s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 109, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 217, in __constructBasis
+    A,b = self.__modQOnlyDimRed()
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 434, in __modQOnlyDimRed
+    M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 534, in __gaussianElimination
+    raise IndexError("Value of k has to be <= than dimension of unknown. Got k=%d, but was expecting k<%d" % (k,rows))
+IndexError: Value of k has to be <= than dimension of unknown. Got k=600, but was expecting k<512
+
+Finished experiment.	Hints: 500	Blocksize: 2	Time: 444.058723s
+Finished experiment.	Hints: 500	Blocksize: 2	Time: 761.112407s
+Finished experiment.	Hints: 495	Blocksize: 2	Time: 1491.215236s
+Finished experiment.	Hints: 490	Blocksize: 2	Time: 1861.462826s
+Finished experiment.	Hints: 485	Blocksize: 2	Time: 2441.818347s
+Finished experiment.	Hints: 480	Blocksize: 2	Time: 7256.973874s
+Finished experiment.	Hints: 475	Blocksize: 2	Time: 8780.295350s
+Finished experiment.	Hints: 128	Blocksize: 0	Time: 288.852511s
+Finished experiment.	Hints: 32	Blocksize: 0	Time: 0.256078s
+Finished experiment.	Hints: 32	Blocksize: 0	Time: 0.295008s
+Finished experiment.	Hints: 8	Blocksize: 0	Time: 0.016830s
+Finished experiment.	Hints: 2	Blocksize: 0	Time: 0.005082s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.006763s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 311, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.007221s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.059517s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.008064s
+Finished experiment.	Hints: 3	Blocksize: 2	Time: 0.072301s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.005744s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.009616s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.011812s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.055927s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.007597s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 122, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 317, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 125, in reduce
+    self.__vPrint(f"the dimension of sublattice is {basis.shape}")
+AttributeError: 'fpylll.fplll.integer_matrix.IntegerMatrix' object has no attribute 'shape'
+
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.009493s
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 125, in reduce
+    self.__vPrint(f"the dimension of sublattice is {len(basis), len(basis[0])}")
+TypeError: object of type 'fpylll.fplll.integer_matrix.IntegerMatrix' has no len()
+
+Traceback (most recent call last):
+  File "experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/lattice/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 125, in reduce
+    self.__vPrint(f"the dimension of sublattice is {basis.size}")
+AttributeError: 'fpylll.fplll.integer_matrix.IntegerMatrix' object has no attribute 'size'
+
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.006525s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.006523s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.010954s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.014425s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.010915s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.011319s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.009234s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.013195s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.007284s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.012218s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.006133s
+Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.012093s

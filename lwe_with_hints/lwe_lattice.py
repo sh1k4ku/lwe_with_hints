@@ -1,5 +1,6 @@
 from fpylll import BKZ as BKZ_FPYLLL, LLL, GSO, IntegerMatrix, FPLLL
 from fpylll.algorithms.bkz2 import BKZReduction
+from sage.all import *
 
 import numpy as np
 from math import sqrt, pi, e, log, ceil
@@ -107,6 +108,7 @@ class LWELattice:
     self.__vPrint("Constructing basis.")
     self.__clock()
     basis = self.__constructBasis()
+    self.__vPrint(f"basis is \n{basis}")
     self.__clock()
     self.__vPrint("Finished basis construction. Time: %fs." % self.__time)
     
@@ -121,6 +123,8 @@ class LWELattice:
       basis = self.__constructSubLattice(basis)
       self.__clock()
       self.__vPrint("Finished sublattice construction. Time: %fs." % self.__time)
+      self.__vPrint(f"basis is \n{basis}")
+      self.__vPrint(f"the dimension of sublattice is {basis.nrows, basis.ncols}")
     
     if maxBlocksize == None:
       maxBlocksize = basis.nrows
@@ -137,6 +141,7 @@ class LWELattice:
       i += 1
     
     if foundSecret:
+      self.__vPrint(f"found secret at {i-1}th row of basis:\n{basis}")
       self.__vPrint("Found secret while constructing sublattice.")
       self.shortestVector = np.array(basis[i-1])
       
@@ -169,7 +174,7 @@ class LWELattice:
 
         for tour in range(bkzTours):
           bkz(par)
-
+          self.__vPrint(f"the basis after {tour}s bkz is \n{basis}")
           foundSecret = self.__checkCandidateShortest(basis[0], targetLength)
 
           if foundSecret:
@@ -213,8 +218,9 @@ class LWELattice:
       
     else:
       self.__vPrint("Only mod-q hints have been integrated. Going to smaller LWE dimension.")
+      self.__vPrint(f"the dimension before elimination of A is {self.__A.shape} and the len of b is {len(self.__b)}")
       A,b = self.__modQOnlyDimRed()
-      
+      self.__vPrint(f"the dimension after elimination of A is {A.shape} and the len of b is {len(b)}")
       n,m = A.shape
       
       ctrModHints = 0
@@ -222,6 +228,8 @@ class LWELattice:
       ctrApproximateHints = 0
       
     dim = m + ctrModHints + n + 1
+
+    self.__vPrint(f"the dim of lattice is {dim}")
     
     B = IntegerMatrix.identity(dim)
     
@@ -280,11 +288,15 @@ class LWELattice:
       #    bottom_left | bottom_right
       #  ].
       top = basis[:m]
+      # self.__vPrint(f"top is \n{top}")
       bottom = basis[m:]
       bottom_left = bottom.submatrix(0,0,n+ctrModHints+1,m)
       bottom_right = bottom.submatrix(0,m,n+ctrModHints+1,m+ctrModHints+n+1)
-    
+
+      # self.__vPrint(f"bottom_left is \n{bottom_left}")
+
       dim_bottom = bottom.nrows
+      self.__vPrint(f"dim_bottom is {dim_bottom}")
     
       #Scale bottom_right for zero forcing
       gh = self.__gaussianHeuristic(bottom_right)
@@ -296,7 +308,10 @@ class LWELattice:
           
       #LLL reduce bottom_right
       U = IntegerMatrix.identity(dim_bottom)
+      # self.__vPrint(f"bottom_right is \n{bottom_right}")
+      # self.__vPrint(f"U is \n{U}")
       LLL.reduction(bottom_right, U)
+      # self.__vPrint(f"U is \n{U}")
         
       #Check if heuristics hold
       zero_block = bottom_right.submatrix(0,0,dim_bottom-ctrHints,ctrHints)
@@ -306,10 +321,12 @@ class LWELattice:
     
       #Construct new basis
       bottom_left = U * bottom_left
+      self.__vPrint(f"bottom_left is \n{bottom_left%q}")
       bottom_left = bottom_left[:-ctrHints]
       bottom_left = bottom_left % q
     
       dim_bottom = bottom_left.nrows
+      self.__vPrint(f"bottom_right is \n{bottom_right}")
     
       B = IntegerMatrix.identity(m+dim_bottom)
     
@@ -429,6 +446,10 @@ class LWELattice:
       y[k+i] = self.__b[i]
     
     M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+    for i in range(k):
+      assert M[i, i] == 1
+      for j in range(m):
+        assert M[i, k+j] == 0
     
     eliminatedCoordinates = []
     

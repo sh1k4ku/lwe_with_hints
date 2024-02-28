@@ -10,7 +10,7 @@ from lwe_with_hints.ntru_gen import NTRUKeyGenerator
 def generateLWEInstance(scheme):
   implementedSchemes = [
     "Kyber512", "Kyber768", "Kyber1024",
-    "Dilithium2", "Dilithium3", "Dilithium5",
+    "Dilithium1", "Dilithium2", "Dilithium3", "Dilithium5",
     "Falcon2", "Falcon4", "Falcon8", "Falcon16", "Falcon32", "Falcon64", "Falcon128", "Falcon256", "Falcon512", "Falcon1024",
     "NTRU-HPS-509", "NTRU-HPS-677", "NTRU-HPS-821", "NTRU-HRSS"
   ]
@@ -31,7 +31,9 @@ def generateLWEInstance(scheme):
     scheme = scheme[5:]
     A,s,e,q = ntruGen(scheme)
 
+  print(len(s), np.shape(A))
   b = (s.dot(A) + e) % q
+  print(len(b))
 
   return A,b,q,s,e
 
@@ -179,13 +181,18 @@ def kyberGen(variant):
   Returns A,s,e, as in Dilithium.
 """
 def dilithiumGen(variant):
-  if variant not in [2,3,5]:
+  if variant not in [1,2,3,5]:
     raise NotImplementedError("dilithiumGen(variant) supports only variant = 2, 3, 5, but variant = %d was given." % variant)
   
   n = 256
   q = 8380417
   
-  if variant == 2:
+  if variant == 1:
+    k = 3
+    l = 2
+    eta = 7
+
+  elif variant == 2:
     k = 4
     l = 4
     eta = 2
