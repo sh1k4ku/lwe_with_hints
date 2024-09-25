@@ -31,9 +31,9 @@ def generateLWEInstance(scheme):
     scheme = scheme[5:]
     A,s,e,q = ntruGen(scheme)
 
-  print(len(s), np.shape(A))
+  # print(len(s), np.shape(A))
   b = (s.dot(A) + e) % q
-  print(len(b))
+  # print(len(b))
 
   return A,b,q,s,e
 
@@ -188,9 +188,9 @@ def dilithiumGen(variant):
   q = 8380417
   
   if variant == 1:
-    k = 3
+    k = 2
     l = 2
-    eta = 7
+    eta = 2
 
   elif variant == 2:
     k = 4

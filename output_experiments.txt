@@ -535,3 +535,545 @@ Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.007284s
 Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.012218s
 Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.006133s
 Finished experiment.	Hints: 3	Blocksize: 0	Time: 0.012093s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.504691s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.536000s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.521650s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.548642s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.656410s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.755766s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.871005s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.871231s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.932827s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.956797s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.980504s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.034742s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.335098s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.353438s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.494987s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 14.611307s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.593354s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 320, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 320, in __constructSubLattice
+    if not v.is_zero():
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 12.736250s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.042686s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 222, in __constructBasis
+    A,b = self.__modQOnlyDimRed()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 452, in __modQOnlyDimRed
+    M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 552, in __gaussianElimination
+    raise IndexError("Value of k has to be <= than dimension of unknown. Got k=%d, but was expecting k<%d" % (k,rows))
+IndexError: Value of k has to be <= than dimension of unknown. Got k=258, but was expecting k<256
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 222, in __constructBasis
+    A,b = self.__modQOnlyDimRed()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 452, in __modQOnlyDimRed
+    M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 552, in __gaussianElimination
+    raise IndexError("Value of k has to be <= than dimension of unknown. Got k=%d, but was expecting k<%d" % (k,rows))
+IndexError: Value of k has to be <= than dimension of unknown. Got k=257, but was expecting k<256
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 224, in __constructBasis
+    n,m = A.shape
+ValueError: not enough values to unpack (expected 2, got 1)
+
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 13.490903s
+Finished experiment.	Hints: 1023	Blocksize: 2	Time: 265.988330s
+Finished experiment.	Hints: 1023	Blocksize: 2	Time: 88.717003s
+Finished experiment.	Hints: 1023	Blocksize: 2	Time: 102.237295s
+Finished experiment.	Hints: 900	Blocksize: 2	Time: 13137.701831s
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 2.822360s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 222, in __constructBasis
+    A,b = self.__modQOnlyDimRed()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 452, in __modQOnlyDimRed
+    M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 598, in __gaussianElimination
+    raise RuntimeError("Gaussian elimination failed. Could only eliminate %d coordinates, instead of %d." % (eliminatedCoordinates,k))
+RuntimeError: Gaussian elimination failed. Could only eliminate 128 coordinates, instead of 255.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 110, in reduce
+    basis = self.__constructBasis()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 222, in __constructBasis
+    A,b = self.__modQOnlyDimRed()
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 452, in __modQOnlyDimRed
+    M,y = self.__gaussianElimination(M,y,k,self.__q,k)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 598, in __gaussianElimination
+    raise RuntimeError("Gaussian elimination failed. Could only eliminate %d coordinates, instead of %d." % (eliminatedCoordinates,k))
+RuntimeError: Gaussian elimination failed. Could only eliminate 128 coordinates, instead of 255.
+
+Finished experiment.	Hints: 255	Blocksize: 2	Time: 2.450052s
+Finished experiment.	Hints: 1023	Blocksize: 2	Time: 86.022296s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 64, in experiment
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 200	Blocksize: 0	Time: 5374.762570s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 256	Blocksize: 0	Time: 958.863335s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+
+Finished experiment.	Hints: 220	Blocksize: 0	Time: 8942.595337s
+Finished experiment.	Hints: 256	Blocksize: 0	Time: 26053.448078s
+Finished experiment.	Hints: 220	Blocksize: 0	Time: 19467.795434s
+Traceback (most recent call last):
+  File "/home/sh1kaku/SCA/lwe_with_hints/experiments.py", line 82, in experiment
+    lattice.reduce(maxBlocksize=40)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 123, in reduce
+    basis = self.__constructSubLattice(basis)
+  File "/home/sh1kaku/SCA/lwe_with_hints/lwe_with_hints/lwe_lattice.py", line 322, in __constructSubLattice
+    raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+RuntimeError: Heuristics for Construct-Sublattice failed.
+

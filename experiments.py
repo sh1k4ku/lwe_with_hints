@@ -46,6 +46,24 @@ def generateHints(s, q, k, centered):
   
   return V,L
 
+def MygenerateHints(s, q, k, centered):
+  n = len(s)
+  V = []
+  L = []
+
+  for i in range(k):
+    if centered:
+      v = np.array([ randrange( -int((q-1)/2), int((q+1)/2) ) if _ < n//2 else 0 for _ in range(n) ])
+    else:
+      v = np.array([ randrange(q) if _ < n//2 else 0 for _ in range(n) ])
+
+    l = v.dot(s)
+    
+    V.append(v)
+    L.append(l)
+  
+  return V,L
+
 def experiment( A,b,q,hints,modular,fileName,verbose ):
   
   lattice = LWELattice(A,b,q,verbose=verbose)

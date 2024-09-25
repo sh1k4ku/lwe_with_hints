@@ -108,7 +108,7 @@ class LWELattice:
     self.__vPrint("Constructing basis.")
     self.__clock()
     basis = self.__constructBasis()
-    self.__vPrint(f"basis is \n{basis}")
+    # self.__vPrint(f"basis is \n{basis}")
     self.__clock()
     self.__vPrint("Finished basis construction. Time: %fs." % self.__time)
     
@@ -123,7 +123,7 @@ class LWELattice:
       basis = self.__constructSubLattice(basis)
       self.__clock()
       self.__vPrint("Finished sublattice construction. Time: %fs." % self.__time)
-      self.__vPrint(f"basis is \n{basis}")
+      # self.__vPrint(f"basis is \n{basis}")
       self.__vPrint(f"the dimension of sublattice is {basis.nrows, basis.ncols}")
     
     if maxBlocksize == None:
@@ -141,7 +141,7 @@ class LWELattice:
       i += 1
     
     if foundSecret:
-      self.__vPrint(f"found secret at {i-1}th row of basis:\n{basis}")
+      # self.__vPrint(f"found secret at {i-1}th row of basis:\n{basis}")
       self.__vPrint("Found secret while constructing sublattice.")
       self.shortestVector = np.array(basis[i-1])
       
@@ -174,7 +174,7 @@ class LWELattice:
 
         for tour in range(bkzTours):
           bkz(par)
-          self.__vPrint(f"the basis after {tour}s bkz is \n{basis}")
+          # self.__vPrint(f"the basis after {tour}s bkz is \n{basis}")
           foundSecret = self.__checkCandidateShortest(basis[0], targetLength)
 
           if foundSecret:
@@ -301,6 +301,8 @@ class LWELattice:
       #Scale bottom_right for zero forcing
       gh = self.__gaussianHeuristic(bottom_right)
       scaling = ceil( (2)**((dim_bottom-1)/2) * gh )
+      print(f"{scaling.bit_length() = }")
+      # scaling = 2**1024
       
       for i in range(dim_bottom):
         for j in range(ctrHints):
@@ -318,15 +320,17 @@ class LWELattice:
       for v in zero_block:
         if not v.is_zero():
           raise RuntimeError("Heuristics for Construct-Sublattice failed.")
+      else:
+        print("Heuristics for Construct-Sublattice hold.")
     
       #Construct new basis
       bottom_left = U * bottom_left
-      self.__vPrint(f"bottom_left is \n{bottom_left%q}")
+      # self.__vPrint(f"bottom_left is \n{bottom_left%q}")
       bottom_left = bottom_left[:-ctrHints]
       bottom_left = bottom_left % q
     
       dim_bottom = bottom_left.nrows
-      self.__vPrint(f"bottom_right is \n{bottom_right}")
+      # self.__vPrint(f"bottom_right is \n{bottom_right}")
     
       B = IntegerMatrix.identity(m+dim_bottom)
     
